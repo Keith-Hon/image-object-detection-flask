@@ -5,3 +5,4 @@ Installation:
 2. cd env
 3. & .\env\Scripts\activate
 4. pip install -r requirements.txt
+5. py main.py
