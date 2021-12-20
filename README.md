@@ -1,6 +1,10 @@
 # image-object-detection-flask
 
-This flask app uses tensorflow/tensorflow:latest docker image to setup environment to use tensorflow
+Introduction:
+This flask app detects objects from image by a url. It downloads an image from the url and do inference with mobilenet_v2 by google.
+
+Dependency:
+tensorflow/tensorflow:latest docker image to setup environment to use tensorflow
 
 Installation:
 1. virtualenv env
