@@ -1,5 +1,8 @@
 # image-object-detection-flask
 
+.. image:: https://travis-ci.org/moredeal-org/image-object-detection-flask.svg?branch=main
+  :target: https://travis-ci.org/moredeal-org/image-object-detection-flask
+
 Introduction
 ------------
 This flask app detects objects from image by a url. It downloads an image from the url and do inference with mobilenet_v2 by google.
