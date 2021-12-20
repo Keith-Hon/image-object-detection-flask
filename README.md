@@ -1,12 +1,15 @@
 # image-object-detection-flask
 
-Introduction:
+Introduction
+------------
 This flask app detects objects from image by a url. It downloads an image from the url and do inference with mobilenet_v2 by google.
 
-Dependency:
+Dependency
+------------
 tensorflow/tensorflow:latest docker image to setup environment to use tensorflow
 
-Installation:
+Installation
+------------
 1. virtualenv env
 2. cd env
 3. & .\env\Scripts\activate
@@ -15,5 +18,6 @@ Installation:
 6. curl http://localhost:5000/detect?image_url=https://s3.ap-east-1.amazonaws.com/moredeal.org/hk/product_images/adidas_hk/adidas_hk_10478.jpg<br/>6.1 Exepected output
   { result: { name: "footwear" } }
 
-Reference:
+Reference
+------------
 https://tfhub.dev/google/openimages_v4/ssd/mobilenet_v2/1
