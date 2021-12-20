@@ -1,5 +1,7 @@
 # image-object-detection-flask
 
+This flask app uses tensorflow/tensorflow:latest docker image to setup environment to use tensorflow
+
 Installation:
 1. virtualenv env
 2. cd env
