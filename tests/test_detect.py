@@ -29,6 +29,9 @@ class CheckObjectDetection(SettingBase):
         data = json.loads(response.data.decode('utf-8'))
         self.assertEqual(response.status_code, 200)
         self.assertEqual(data['result'][0]['name'], "footwear")
+    
+    def test_failure(self):       
+        self.assertEqual(True, False)        
 
 
 if __name__ == '__main__':
