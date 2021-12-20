@@ -2,3 +2,5 @@ Flask
 tensorflow
 tensorflow_hub
 flask_testing
+six
+pillow
