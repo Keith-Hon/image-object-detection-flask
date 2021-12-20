@@ -2,7 +2,7 @@ image-object-detection-flask
 ==================
 
 ### Status
-[![Build Status](https://travis-ci.org/moredeal-org/image-object-detection-flask.png)](https://travis-ci.org/moredeal-org/image-object-detection-flask)
+![workflow](https://github.com/moredeal-org/image-object-detection-flask/actions/workflows/ci.yml/badge.svg)
 
 Introduction
 ------------
