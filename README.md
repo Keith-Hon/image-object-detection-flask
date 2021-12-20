@@ -1,8 +1,8 @@
 image-object-detection-flask
 ==================
 
-.. image:: https://travis-ci.org/moredeal-org/image-object-detection-flask.svg?branch=main
-  :target: https://travis-ci.org/moredeal-org/image-object-detection-flask
+### Status
+[![Build Status](https://travis-ci.org/moredeal-org/image-object-detection-flask.png)](https://travis-ci.org/moredeal-org/image-object-detection-flask)
 
 Introduction
 ------------
